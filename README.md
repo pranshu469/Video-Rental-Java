@@ -1,5 +1,8 @@
 # Video-Rental-Java
 
+psvm() in VideoLauncher.java
+
+
 this is a simple video rental system
 1.to add a video
 2.to set the checkout status flag as true
